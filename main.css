@@ -15,3 +15,12 @@ footer {
 	width: 100%;
 	background: white;
 	}
+
+header.title {
+	position: fixed;
+	top: 0;
+	height: 70px;
+	width: 100%;
+	background: white;
+	float: none;
+	}
