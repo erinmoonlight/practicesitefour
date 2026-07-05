@@ -1,1 +1,9 @@
 /* Please insert all your CSS code into this document */
+h1 {
+	padding: .2em .5em 1em;
+	}
+
+h2 {
+	padding: .2em;
+	text-align: center;
+	}
