@@ -29,6 +29,11 @@ header.title {
 	margin: 200px 0 200px 0;
 	}
 
+img {
+	max-width: 80%
+	height: auto
+}
+
 /* page one */
 
 aside.one {
