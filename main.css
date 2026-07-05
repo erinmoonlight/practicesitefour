@@ -24,3 +24,7 @@ header.title {
 	background: white;
 	float: none;
 	}
+
+#wrapper {
+	margin: 90px 0 115px 0;
+	}
