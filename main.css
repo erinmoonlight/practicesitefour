@@ -28,3 +28,12 @@ header.title {
 #wrapper {
 	margin: 90px 0 115px 0;
 	}
+
+/* page one */
+aside.one {
+	position: fixed;
+	left: 0;
+	width: 140px;
+	padding: 0 .5em;
+	color: #D3D3D3
+	}
