@@ -37,3 +37,16 @@ aside.one {
 	padding: 0 .5em;
 	color: #D3D3D3
 	}
+
+div.articles1 {
+	position: fixed;
+	left: 150px;
+	height: 400px;
+	width; 750px;
+	padding: 0 .4em;
+	overflow: scroll;
+}
+
+img.body1 {
+	width: 280px;
+}
