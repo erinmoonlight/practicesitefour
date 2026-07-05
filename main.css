@@ -29,9 +29,10 @@ header.title {
 	margin: 200px 0 200px 0;
 	}
 
-img.banner {
-	max-width: 90%
-	height: auto
+.banner {
+	display: block;
+	margin: auto;
+	width: 80%;
 	}
 
 /* page one */
