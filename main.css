@@ -109,4 +109,31 @@ div.articles2 {
 		width: 24%
 	}
 
+/* page four */
 
+	aside.four {
+		display: inline-block;
+		vertical-align: top;
+		width: 20%;
+		min-width: 120px;
+	}
+
+	div.articles4 {
+		display: inline-block;
+		vertical-align: top;
+		width: 70%;
+		min-height: 400px;
+		min-width:340px;
+	}
+
+	.right4 {
+		float: right;
+		margin: 1em 0em 1em 2em;
+		width: 25%
+	}
+
+	.left4 {
+		float: left;
+		margin: 1em 2em 1em 0;
+		width:25%
+	}
