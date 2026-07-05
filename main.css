@@ -29,8 +29,8 @@ header.title {
 	margin: 200px 0 200px 0;
 	}
 
-img {
-	max-width: 80%
+img.banner {
+	max-width: 90%
 	height: auto
 	}
 
@@ -109,7 +109,4 @@ div.articles2 {
 		width: 24%
 	}
 
-img {
-	max-width: 80%
-	height: auto
-	}
+
