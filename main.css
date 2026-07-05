@@ -41,12 +41,12 @@ aside.one {
 div.articles1 {
 	position: fixed;
 	left: 150px;
-	height: 400px;
-	width: 750px;
+	height: 800px;
+	width: 500px;
 	padding: 0 .4em;
 	overflow: scroll;
 }
 
 img.body1 {
-	width: 280px;
+	width: 300px;
 }
