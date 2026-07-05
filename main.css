@@ -30,6 +30,7 @@ header.title {
 	}
 
 /* page one */
+
 aside.one {
 	position: fixed;
 	left: 0;
@@ -49,4 +50,30 @@ div.articles1 {
 
 img.body1 {
 	width: 300px;
+}
+
+/* page two */
+
+aside.two {
+	float: left;
+	min-width: 120px;
+}
+
+div.articles2 {
+	min-height: 380 px;
+	min-width: 350 px;
+	padding: 0 20px;
+	overflow: scroll;
+}
+
+.left2 {
+	float: left;
+	margin: 10px 35px 10px 0px;
+	width: 170 px;
+}
+
+.right2 {
+	float: right;
+	margin: 10px 0px 10px 35px;
+	width: 170px;
 }
