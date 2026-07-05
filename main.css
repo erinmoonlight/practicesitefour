@@ -77,3 +77,31 @@ div.articles2 {
 	margin: 10px 0px 10px 35px;
 	width: 170px;
 }
+
+/* page three */
+
+	aside.three {
+		float: left;
+		min-width: 120px;
+	}
+
+	div.articles3 {
+		min-height: 400px;
+		min-width: 350px;
+		padding: 0 1.5em;
+		overflow: scroll;
+	}
+
+	.right3 {
+		float: right;
+		margin: 1em 0em 1em 2em
+		width: 25%
+	}
+
+	.left3 {
+		float: left; 
+		margin: 1em 2em 1em 0;
+		width: 24%
+	}
+
+
