@@ -140,10 +140,9 @@ div.articles2 {
 	}
 
 /* page five */
-	.box {
-		display: inline-block;
-		width: 100px
-		height: auto
-		object-fit: .box
-		margin: 1.5em
+	.gallery {
+		display: inline-block
+		margin: 8 px
+		object-fit: gallery
 	}
+		
