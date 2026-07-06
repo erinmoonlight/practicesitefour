@@ -146,6 +146,6 @@ div.articles2 {
  		height: 100px;
   		margin: 1em;
 	}
-	img.gallery {
+	.contain {
 		object-fit: contain;
 	}
