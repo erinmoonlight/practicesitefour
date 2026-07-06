@@ -140,10 +140,10 @@ div.articles2 {
 	}
 
 /* page five */
-	.gallery img {
-		display: inline-block;
-		max-width: 200px;
+	img.gallery {
+		float: left;
+		max-width:  100px;
 		height: auto;
-		margin: 1em;
+		object-fit: cover;
 	}
 		
