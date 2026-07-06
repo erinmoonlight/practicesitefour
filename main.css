@@ -100,14 +100,14 @@ div.articles2 {
 
 	.right3 {
 		float: right;
-		margin: 1em 0em 1em 2em
-		width: 25%
+		margin: 1em 0em 1em 2em;
+		width: 25%;
 	}
 
 	.left3 {
 		float: left; 
 		margin: 1em 2em 1em 0;
-		width: 24%
+		width: 24%;
 	}
 
 /* page four */
@@ -130,19 +130,19 @@ div.articles2 {
 	.right4 {
 		float: right;
 		margin: 1em 0em 1em 2em;
-		width: 25%
+		width: 25%;
 	}
 
 	.left4 {
 		float: left;
 		margin: 1em 2em 1em 0;
-		width:25%
+		width: 25%;
 	}
 
 /* page five */
 	.gallery {
-		display: inline-block
-		margin: 8 px
-		object-fit: gallery
+		display: inline-block;
+		margin: 8px;
+		object-fit: gallery;
 	}
 		
